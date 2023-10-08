@@ -1,4 +1,4 @@
-### Hi there, I'm Hudy
+### Hi there, I'm Hudy ✌️
 
 I'm a backend Django developer with a passion for building robust web applications. This README provides an overview of my skills and a showcase of a key Django project I've worked on.
 
