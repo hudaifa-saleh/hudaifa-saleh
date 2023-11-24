@@ -1,4 +1,4 @@
 
-# Hi there, I'm Hudaifa ✌️
+### Hello, my name is Hudaifa ✌️
 
-The backend Django Developer
+I'm a Django Developer
