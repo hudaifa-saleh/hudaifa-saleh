@@ -13,4 +13,4 @@
 
 <h1 align="center"></h1>
 
-[![Hudaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hudaifa-saleh&theme=buefy&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hudaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hudaifa-saleh&theme=github_dark&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
