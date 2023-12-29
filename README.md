@@ -8,7 +8,7 @@
 
 - 🔭 &nbsp; I’m currently working on **Something Cool**.
 - 🤝 &nbsp; I’m looking for new opportunity.
-- 🌱 &nbsp; I’m currently learning new technology; 
+- 🌱 &nbsp; I’m currently learning new technology.
 
 <h1 align="center"></h1>
 
