@@ -9,7 +9,6 @@
 - 🔭 &nbsp; I’m currently working on **Something Cool**.
 - 🤝 &nbsp; I’m looking for new opportunity.
 - 🌱 &nbsp; I’m currently learning new technology; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hudaifa-saleh)
 
 <h1 align="center"></h1>
 
